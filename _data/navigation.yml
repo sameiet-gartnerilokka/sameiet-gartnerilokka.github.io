@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: Vedlikehold
+  url: /vedlikehold/
+  image: vedlikehold_white_200x200.png
+  excerpt: Ting for å holde alt fint
+
+- title: Tjenster
+  url: /tjenester/
+  excerpt: Informasjon om tjenester i sameiet.
+  image: home_white_200x200.png
+
+
+- title: Om
+  url: /om/
+
+
