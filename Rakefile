@@ -60,6 +60,16 @@ def write_content(path,content)
 
 end
 
+# Deploy
+desc 'Deploy everything'
+task :deploy do
+  puts 'Committing'
+  puts `git commit -am 'General update'`
+  puts 'Uploading to repository.'
+  puts `CURRENTBRANCH=$(git status | grep -m 1 branch | awk '\''{ print $3 }'\'') && git push origin ${CURRENTBRANCH}`
+
+end
+
 # Create pages
 desc 'Create a new page at the given url'
 task :create_new_page, :url do |t,args|
