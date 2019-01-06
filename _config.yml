@@ -1,13 +1,14 @@
 # Site wide configuration
 
 title: "Sameiet Gartneriløkka"
-description: "This is a description of my awesome site."
+description: "Website av Sameiet Gartneriløkka"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: no
-url:
+url: https://sameiet-gartnerilokka.github.io
 feed:
   path: atom.xml
+
 
 # Jekyll configuration
 
@@ -15,10 +16,11 @@ sass:
   sass_dir: _sass
   style: compressed
 permalink: /:categories/:title/
+destination: ./_site
 kramdown:
   toc_levels: 1..2
 highlighter: rouge
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
