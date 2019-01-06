@@ -1,6 +1,9 @@
 require 'rake'
 require 'yaml'
 require 'fileutils'
+require 'date'
+
+default_site_configuration = './_config.yml'
 
 default_page_content ="---\n" \
   "layout: page\n"\
@@ -17,6 +20,26 @@ default_post_content = "---\n"\
   "---\n"\
   ""
 
+task :s => :serve
+task :new_post => :create_new_post
+task :new_page => :create_new_page
+
+# Method to preview the site
+desc 'Preview the page locally'
+task :serve do
+  system('bundle exec jekyll serve')
+end
+
+# Method to check the site for failing links
+desc 'Check page for dead links'
+task :check_links do
+  config = YAML.load_file(default_site_configuration)
+  puts `bundle exec htmlproofer #{config['destination']} + '/'`
+
+end
+
+# Method to write any content to any location and
+# create the required path.
 def write_content(path,content)
   # Split and remove empty fields
   path_elements = path.split('/').reject(&:empty?)
@@ -46,8 +69,30 @@ task :create_new_page, :url do |t,args|
   # Replace placeholders in default content
   new_content = default_page_content.gsub(/\#\#title\#\#/, args[:url].split('/').last.capitalize)
   new_content.gsub!(/\#\#url\#\#/, args[:url] + '/')
-  puts new_content
   write_content(url,new_content)
+end
+
+# Create posts
+desc 'Create a new post with an optional title.'
+task :create_new_post, :title do |t,args|
+  post_dir = './_posts'
+  args.with_defaults(:title => 'Insert title here')
+
+  # Current date
+  daystamp = Time.now.strftime("%Y-%m-%d")
+  timestamp = Time.now.strftime("%Y-%m-%d %H:%M:%S +0100")
+
+  post_filename = post_dir + '/' + daystamp + '-' + args[:title].gsub(/ /,'_').downcase + '.md'
+
+  if not File.exists?(post_filename)
+    puts 'Creating a new post at ' + post_filename
+    new_content = default_post_content.gsub(/\#\#title\#\#/, args[:title].capitalize)
+    new_content.gsub!(/\#\#date\#\#/, timestamp)
+    write_content(post_filename, new_content)
+  else
+    puts 'Post ' + post_filename + ' already exists. Abort.'
+  end
+
 end
 
 task :default do
