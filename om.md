@@ -5,7 +5,16 @@ permalink: /om/
 ---
 
     Sameiet Gartneriløkka
-    Linnesstranda 39
-    3426 Gullaug, Norge
+    Org.nr: 820883772
+    v/Boligbyggelagenes finanseringsforetak
+    P.b. 384
+
+    8001 Bodø
 
 Fakturaadresse
+
+    Sameiet Gartneriløkka
+    1563, Sameiet Gartneriløkka
+    Fakturamottak Usbl, Postbokx, 4391 Vika
+    8608 Mo i Rana
+    fatura@usbl.no
