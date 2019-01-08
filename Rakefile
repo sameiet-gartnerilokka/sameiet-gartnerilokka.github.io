@@ -64,6 +64,7 @@ end
 desc 'Deploy everything'
 task :deploy do
   puts 'Committing'
+  puts `git add .`
   puts `git commit -am 'General update'`
   puts 'Uploading to repository.'
   puts `CURRENTBRANCH=$(git status | grep -m 1 branch | awk '\''{ print $3 }'\'') && git push origin ${CURRENTBRANCH}`
