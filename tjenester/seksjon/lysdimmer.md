@@ -13,4 +13,4 @@ Noen seksjoner hadde eller har problemer med lysdimmerene satt inn. De reagerte 
 Vi har fått et pakke med nye dimmer som kan lett erstatte de som er montert.
 
 Hvis du har behov for en dimmer, ta kontakt med styret og gir antallet av hvor mange du trenger.
-![Lysdimmer]({{ site.baseurl}}/images/lysdimmer.jpg)
+![Lysdimmer]({{ site.baseurl }}/images/lysdimmer.jpg)

@@ -9,3 +9,4 @@ title: "Siste meldinger"
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
+![Sameiet Gartneriløkka]({{ site.baseurl }}/images/overview_sameie.jpg)

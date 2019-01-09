@@ -21,6 +21,6 @@ Informasjon om tjenester i sameiet.
 * [Lading av kjøretøy](/tjenester/sameie/lading)
 * [Markiser](/tjenester/sameie/markiser)
 * [Maur](/tjenester/sameie/maur)
-* [Parkeringsplas](/tjenester/sameie/parkeringsplass)
+* [Parkeringsplass](/tjenester/sameie/parkeringsplass)
 * [Søppel](/tjenester/sameie/soppel)
 * [Varmepumper](/tjenester/sameie/varmepumper)
