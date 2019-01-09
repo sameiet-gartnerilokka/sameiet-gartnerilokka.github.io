@@ -11,4 +11,4 @@ Alle betaler minst tilgang til fiber med fellesavgiften.
 
 Tilgang til internet og tv bestemmer hver seksjon for seg selv. Betaling skjer direkte til Fiber1 for alle tjenester utover tilgangen til fiber.
 
-Hvis du har problemer med internett og/eller TV ta direkte kontakte med [Fiber1](https://www.fiber1.no).
+Hvis du har problemer med internett og/eller TV, ta direkte kontakt med [Fiber1](https://www.fiber1.no).
