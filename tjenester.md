@@ -20,9 +20,9 @@ Informasjon om tjenester i sameiet.
 * [Fellesstrøm](/tjenester/sameie/fellesstrom)
 * [Lading av kjøretøy](/tjenester/sameie/lading)
 * [Markiser](/tjenester/sameie/markiser)
-* [Maur](/tjenester/sameie/maur)
 * [Parkeringsplass](/tjenester/sameie/parkeringsplass)
-* [Søppel](/tjenester/sameie/soppel)
+* [Skadedyr](/tjenester/sameie/skadedyr)
+* [Søppelstasjon](/tjenester/sameie/soppelstasjon)
 * [Varmepumper](/tjenester/sameie/varmepumper)
 
 
