@@ -6,8 +6,6 @@ categories: Søppel
 image:
   teaser: feature_soppel_400x250.jpg
   feature: feature_soppel_1024.jpg
-  credit: Sebastian Müller
-  creditlink: https://commons.wikimedia.org/wiki/File:Schrotthaufen_Berlin.jpg
 ---
 Hei alle sammen!
 
