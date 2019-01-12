@@ -21,6 +21,7 @@ default_post_content = "---\n"\
   ""
 
 task :s => :serve
+task :d => :deploy
 task :new_post => :create_new_post
 task :new_page => :create_new_page
 
