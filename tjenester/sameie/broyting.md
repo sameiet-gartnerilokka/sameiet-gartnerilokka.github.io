@@ -3,15 +3,17 @@ layout: page
 title: 'Brøyting'
 permalink: /tjenester/sameie/broyting/
 image:
-  feature: feature_broyting.jpg
-  credit: trondelag.com
-  creditlink: https://www.trondelag.com/files/2014/11/slegg-1024x576.png
+  feature: sno_broyting_1024.jpg
+  credit: Thomas Taylor Hammond
+  creditlink: https://commons.wikimedia.org/wiki/File:Moscow_Snow_Plow.jpg
 ---
-Veiene i Sameiet blir brøytet i løpet av vinter.
+Når snøen faller, er det på tide for å rydde den bort litt. Det er automatisk brøyting i sameiet på plass.
 
-Når snøen overstiger 5-6cm kommer folk og fikse dette for oss. I tilleg strøyer de grus også etter behov.
+Vel, ikke helt automatisk.
 
-Innkjørsel til eiendommen må alle fikse selv.
+Når snøen overstiger 5-6cm kommer folk og fikse dette for oss. De setter også opp snøpinner for å markere veiene. I tilleg strøyer de grus også etter behov.
+
+Innkjørsel til seksjonene må man desverre fikse self.
 
 Kostnadene dekkes gjennom [fellesavgift](/tjenester/sameie/fellesavgift).
 

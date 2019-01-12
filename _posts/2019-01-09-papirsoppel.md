@@ -3,6 +3,11 @@ layout: article
 title:  "Papirsøppel"
 date:   2019-01-09 08:54:06 +0100
 categories: Søppel
+image:
+  teaser: feature_soppel_400x250.jpg
+  feature: feature_soppel_1024.jpg
+  credit: Sebastian Müller
+  creditlink: https://commons.wikimedia.org/wiki/File:Schrotthaufen_Berlin.jpg
 ---
 Hei alle sammen!
 

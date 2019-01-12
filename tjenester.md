@@ -17,7 +17,7 @@ Informasjon om tjenester i sameiet.
 * [Beplanting](/tjenester/sameie/beplanting)
 * [Brøyting av Snø](/tjenester/sameie/broyting)
 * [Fellesarealer](/tjenester/sameie/fellesarealer)
-* [Fellesstrøm](/tjenester/sameie/fellestrom)
+* [Fellesstrøm](/tjenester/sameie/fellesstrom)
 * [Lading av kjøretøy](/tjenester/sameie/lading)
 * [Markiser](/tjenester/sameie/markiser)
 * [Maur](/tjenester/sameie/maur)

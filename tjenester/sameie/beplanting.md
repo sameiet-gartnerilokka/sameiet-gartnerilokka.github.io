@@ -3,16 +3,19 @@ layout: page
 title: 'Beplanting'
 permalink: tjenester/sameie/beplanting/
 image:
-  feature: feature_beplanting.jpg
+  feature: beplanting_1024x256.jpg
+  credit: Sameiet Gartneriløkka
 ---
-Fra prosjektlederen ble satt opp noen beplanting i sameiet, mest på fellesområde eller grensen av eiendomen.
+Under opprettelsen av Sameiet ble det truffet et valg av planter - mest trær og hekker - som finnes nå her. Der er kanskje lurt å orientere seg litt på hva som finnes allerede når det gjelder å utvide eller tilpasse beplanting rundt seksjonen sin.
 
 ---
 
 ## Surkirsebær
 
+![Prunus Avium]({{ site.baseurl }}/images/planting_prunus_avium_450.jpg)
+
 --- | --- |
-Navn | Prunus avium
+Navn | [Prunus avium](https://no.wikipedia.org/wiki/Prunus_avium)
 Beskjæringstidspunkt | Høst/Vinter
 Bladverk | Grønt
 Blomsterfarge | Kvit
@@ -27,8 +30,10 @@ Plantegruppe | NS 4402 LAUVTRE
 
 ## Svartsurbær 'Moskva'
 
+![Aronia Melanocarpa]({{ site.baseurl }}/images/planting_aronia_melanocarpa_320.jpg)
+
 --- | --- |
-Navn | Aronia melanocarpa 'Moskva'
+Navn | [Aronia melanocarpa](https://no.wikipedia.org/wiki/Aronia_melanocarpa) 'Moskva'
 Beskjæringstidspunkt | Vår
 Bladverk | Grønt
 Blomsterfarge | Kvit
@@ -43,8 +48,10 @@ Plantegruppe | NS 4404 BUSKAR
 
 ## Bøk
 
+![Fagus Sylvatica]({{ site.baseurl }}/images/planting_fagus_sylvatica_360.jpg)
+
 --- | --- |
-Navn | Fagus sylvatica
+Navn | [Fagus sylvatica](https://no.wikipedia.org/wiki/Fagus_sylvatica)
 Beskjæringstidspunkt | Vår/Høst
 Bladverk | Grønt
 Blomstringstid | Mai/Juni
@@ -58,8 +65,10 @@ Plantegruppe | NS 4402 LAUVTRE
 
 ## Spisslønn
 
+![Acer platanoides]({{ site.baseurl }}/images/planting_acer_platanoides_358.jpg)
+
 --- | --- |
-Navn | Acer platanoides
+Navn | [Acer platanoides](https://no.wikipedia.org/wiki/Acer_platanoides)
 Beskjæringstidspunkt | Vår
 Bladverk | Grønt
 Blomsterfarge | Gulgrøn
@@ -74,8 +83,10 @@ Plantegruppe | NS 4402 LAUVTRE
 
 ## Svartor
 
+![Alnus Glutinosa]({{ site.baseurl }}/images/planting_alnus_glutinosa_320.jpg)
+
 --- | --- |
-Navn | Alnus glutinosa
+Navn | [Alnus glutinosa](https://no.wikipedia.org/wiki/Svartor)
 Beskjæringstidspunkt | Vår
 Bladverk | Grønt
 Blomstringstid | April/Mai

@@ -1,9 +1,16 @@
 ---
 layout: page
-title: 'Fellestrom'
-permalink: /tjenester/sameie/fellestrom/
+title: 'Fellesstrom'
+permalink: /tjenester/sameie/fellesstrom/
 image:
-  feature: feature_strom.jpg
-  creditlink: https://www.ntbinfo.no/data/images/00323/c9a14c1f-506d-4d34-a342-c20e168f8de7.jpg
-  credit: ntbinfo.no
+  feature: fellesstrom_1024x256.jpg
+  credit: W. Carter
+  creditlink: https://commons.wikimedia.org/wiki/File:Top_of_power_line_pole_-_west_side.jpg
 ---
+Strømbruk i sameiet deles opp mellom seksjonene og fellestrøm. Fellesstrøm er dekket i fellesavgiften.
+
+Gatebelysning kjøres med fellesstrøm. I tillegg finnes et lite stikkekontakt at med lekeplassen i midten som er tilkoblet til felles.
+
+Det er helt greit å bruke den under anledning i sameiet - derfor ble den jo satt opp.
+
+Utebelysning av hus går ikke via fellestrøm, men er tilkoblet seksjonene. Styring er likevel sentralt og ikke per seksjon.

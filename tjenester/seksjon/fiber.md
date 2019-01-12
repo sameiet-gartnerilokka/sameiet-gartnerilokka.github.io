@@ -3,7 +3,9 @@ layout: page
 title: Fiber (Internet/TV)
 permalink: /tjenester/seksjon/fiber/
 image:
-  feature: fiber1_feature.jpg
+  feature: fiber_1024x256.jpg
+  creditlink: https://commons.wikimedia.org/wiki/File:Fiber_Optic_(Unsplash).jpg
+  credit: Christopher Burns
 ---
 Internet og TV blir levert av [Fiber1](https://www.fiber1.no) i sameiet.
 
