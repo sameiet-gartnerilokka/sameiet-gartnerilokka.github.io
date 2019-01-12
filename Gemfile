@@ -6,6 +6,7 @@ gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem "jekyll-feed"
 gem "ffi", ">= 1.9.24"
+em 'github-pages', group: :jekyll_plugins
 
 # Some specialities for checking links
 gem "rake"
