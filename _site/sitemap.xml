@@ -18,6 +18,9 @@
 <loc>http://localhost:4000/tjenester/sameie/broyting/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/dokumenter/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tjenester/sameie/fellesarealer/</loc>
 </url>
 <url>

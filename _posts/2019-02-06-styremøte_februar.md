@@ -11,4 +11,4 @@ Da hadde vi et nytt styremøte på onsdag. Protokollen følger som vanlig snart 
 
 Hodevpoenget var vel at det kommer et skriv med innkalling til generalforsammlingen i april.
 
-Vi takker for innspill og tilbakemeldinger.
+Vi takker for innspill og tilbakemeldinger fram til begynnelsen av mars.

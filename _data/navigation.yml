@@ -10,6 +10,10 @@
   excerpt: Informasjon om tjenester i sameiet.
   image: home_white_200x200.png
 
+- title: Dokumenter
+  url: /dokumenter/
+  excerpt: Øffentlige dokumenter til sameiet.
+  image: home_white_200x200.png
 
 - title: Om
   url: /om/
