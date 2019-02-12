@@ -1,5 +1,3 @@
-<!-- Start Open Web Analytics Tracker -->
-<script type="text/javascript">
 //<![CDATA[
 var owa_baseUrl = 'https://stats.micronarrativ.org/';
 var owa_cmds = owa_cmds || [];
@@ -15,5 +13,3 @@ owa_cmds.push(['trackDomStream']);
 	var _owa_s = document.getElementsByTagName('script')[0]; _owa_s.parentNode.insertBefore(_owa, _owa_s);
 }());
 //]]>
-</script>
-<!-- End Open Web Analytics Code -->
