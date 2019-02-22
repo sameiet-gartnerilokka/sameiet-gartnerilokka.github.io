@@ -8,6 +8,10 @@ image:
 ---
 Under opprettelsen av Sameiet ble det truffet et valg av planter - mest trær og hekker - som finnes nå her. Der er kanskje lurt å orientere seg litt på hva som finnes allerede når det gjelder å utvide eller tilpasse beplanting rundt seksjonen sin.
 
+Flere ønsker mer skjerming og vil sette opp flere hekker/gjerde utenfor arealet som tilhører hver enkelt beboer. For at det skal være en helhet på utearealte i sameiet ønsker vi at det benyttes samme typer hekker som er satt opp allerede. Angående høyde og utforming av hekkene stoler vi på at alle bruker sunn fornuft og ikke planter høyere hekker enn 1,50m.
+
+Levegg skal ha samme utseende som flere av enhetene har i dag. Generelt er et gjerdet helt ok, men den skal passe med stilen i sameiet. Det bør også holdes samme avstand til asfalten som med hekk.
+
 ---
 
 ## Surkirsebær
