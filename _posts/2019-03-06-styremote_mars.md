@@ -9,7 +9,6 @@ image:
 ---
 Da hadde vi styremøte på onsdag (igjen). Protokollen følger som vanlig snart via epost.
 
-Vi minner på årsmøte på 2019-04-08 18:00. Inkalling finner dere snart i postkassen også.
+Vi minner på årsmøte på 2019-04-08 kl. 18:00 i Lier. Inkallingen finner dere snart i postkassen også.
 
-Vi har fått en del saker for møte som skal tas opp, så det blir sikkert spennende på sameiets første årsmøte.
-
+Vi har fått en del saker til møtet som skal tas opp, så det blir sikkert spennende på sameiets første årsmøte.
