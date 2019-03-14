@@ -8,6 +8,7 @@ Informasjon om tjenester i sameiet.
 ## Seksjon
 
 * [Fiber (Internet/TV)](/tjenester/seksjon/fiber)
+* [Flagging](/tjenester/seksjon/flagging)
 * [Husfilter](/tjenester/seksjon/husfilter)
 * [Lys-dimmer](/tjenester/seksjon/lysdimmer)
 * [Strøm](/tjenester/seksjon/strom)

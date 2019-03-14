@@ -37,6 +37,9 @@
 <loc>http://localhost:4000/tjenester/seksjon/fiber/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tjenester/seksjon/flagging/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tjenester/seksjon/husfilter/</loc>
 </url>
 <url>
