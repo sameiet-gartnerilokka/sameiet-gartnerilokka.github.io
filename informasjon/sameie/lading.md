@@ -14,9 +14,9 @@ De utestikkekontaker montert i seksjonene er ikke tilstrekkelig for en permanent
 
 ## Fast installert lading
 
-Ved kontinuerlig ladebehov må seksjonseierne ta tilstrekkelig tilvalg for å sikre elektroinstallasjonen. Med en gang dette er på plass, så er det ikke et problem med å lade bilen hjemme så lange man ønsker.
+Ved kontinuerlig ladebehov må seksjonseierne ta tilstrekkelig tilvalg for å sikre elektroinstallasjonen. Med en gang dette er på plass, så er det ikke et problem med å lade bilen hjemme så lange og ofte man ønsker.
 
-Sameiet har et tilbud fra elektroinstallatøren om et ladestasjon på separat strømkrets.
+Sameiet har et tilbud fra elektroinstallatøren om et ladestasjon på separat strømkrets og for å sette opp en ladeboks i carporten.
 
 Si ifra til styret hvis det er interessant for deg.
 
