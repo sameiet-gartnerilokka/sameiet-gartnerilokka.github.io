@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Tilbud om elbil/hybridlader
-date: 2019-05-11 19:32:21 +0100
+date: 2019-05-12 19:32:21 +0100
 categories: 
 image:
   teaser: lading_400x250.png

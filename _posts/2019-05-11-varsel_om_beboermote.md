@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Varsel om Beboermøte
-date: 2019-05-11 19:19:17 +0100
+date: 2019-05-12 19:19:17 +0100
 categories: 
 image:
   teaser: feature_styremote_400x250.jpg
