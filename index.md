@@ -1,10 +1,13 @@
 ---
 layout: archive
 permalink: /
-title: "Siste meldinger"
+title: "Velkommen"
 ---
+<div align="center">
+<img src="{{ site.baseurl }}/images/overview_sameie.jpg" align="center" style="margin-bottom:10px">
+</div>
 
-![Sameiet Gartneriløkka]({{ site.baseurl }}/images/overview_sameie.jpg)
+Siste meldinger
 <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}

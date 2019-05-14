@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/tilbud_om_elbil_hybridlader/</loc>
+<lastmod>2019-05-12T20:32:21+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/varsel_om_beboermote/</loc>
+<lastmod>2019-05-12T20:19:17+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/styremote_april/</loc>
 <lastmod>2019-04-30T22:15:34+02:00</lastmod>
 </url>
