@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/gratulerer_med_dagen/</loc>
+<lastmod>2019-05-17T11:05:39+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/tilbud_om_elbil_hybridlader/</loc>
 <lastmod>2019-05-12T20:32:21+02:00</lastmod>
 </url>
