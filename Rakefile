@@ -17,6 +17,10 @@ default_post_content = "---\n"\
   "title: ##title##\n"\
   "date: ##date##\n"\
   "categories: \n"\
+  "image: \n"\
+  "  teaser: post_default_400x250.jpg\n"\
+  "  feature: post_default_1024x256.jpg\n"\
+  "  credit: dbv\n"\
   "---\n"\
   ""
 
