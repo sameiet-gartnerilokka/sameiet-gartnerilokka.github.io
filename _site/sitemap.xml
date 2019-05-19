@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/myggfanger/</loc>
+<lastmod>2019-05-19T21:10:37+02:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/fellesbod/</loc>
 <lastmod>2019-05-18T22:29:45+02:00</lastmod>
 </url>

@@ -7,8 +7,6 @@ title: "Velkommen"
 <img src="{{ site.baseurl }}/images/overview_sameie.jpg" align="center" style="margin-bottom:10px">
 </div>
 
-![Sameiet_gartneriløkka]({{ site.baseurl }}/images/overview_sameie.jpg)
-
 Siste meldinger
 <div class="tiles">
 {% for post in site.posts %}

@@ -17,3 +17,4 @@ Det er bare å ta den i bruk hvis man har noen fellesutstyr man dele med noen i 
 Vi kommer muligen å sette boden på en litt bedre underlag, siden den står litt skjev på grusen.
 
 ![Fellesbod](/images/20190518-fellesbod.jpg)
+{: .center }
