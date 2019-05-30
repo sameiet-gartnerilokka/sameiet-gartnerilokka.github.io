@@ -1,6 +1,6 @@
-/* Center stuff --- doesn't work */
-img.center {
+p img.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
