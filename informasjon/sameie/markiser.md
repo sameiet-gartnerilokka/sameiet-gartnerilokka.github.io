@@ -9,8 +9,13 @@ image:
 ---
 Marker er kjekk å har, det synes vi også.
 
-Vi vet at det er behov i sameiet for å installere markiser. Akkurat nå er vintersesongen, så det er kanskje ikke helt aktuelt å gjøre det nå.
+Vi har derfor et rammeavtale mellom Sameiet Garterniløkka og [Celcius](https://celcius.no/) ang. solskjermingsprodukter.
 
-Vi har hentet inn flere tilbud for markiser og kan til neste sesongen da tilby noen versjoner for å velge fra.
+Avtalen omfatter:
 
+*   Markiser C40 antracit med I/O-motor.
+*   Somfy Styringsprodukter.
 
+Detaljene av avtalen ble send ut i Juni 2019 til alle seksjonseierne.
+
+Ta gjerne [kontakt](mailto:sameie@gartnerilokka.no) med styre hvis noen ikke finner avtalen lenger.
