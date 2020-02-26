@@ -32,6 +32,6 @@ Gass og en veske som tiltrekker mygg må byttes jevnlig. Nede føres vedlikehold
 | - Bytting Propan, Mygg-nett, tiltrekkende veske | 09/09 | |
 | | | |
 | **Vintervedlikehold** | | |
-| - Tøm nett og veske | ??/10 | |
-| - Tett felle | ??/10 | | 
-| - Lagring av utstyr | ??/10 | |
+| - Tøm nett og veske | 10/10 | |
+| - Tett felle | 10/10 | | 
+| - Lagring av utstyr | 10/10 | |
