@@ -4,9 +4,8 @@ title: Årsmøte 2020 planlagt
 date: 2020-02-23 19:29:17 +0100
 categories: 
 image: 
-  teaser: post_default_400x250.jpg
-  feature: post_default_1024x256.jpg
-  credit: dbv
+  teaser: feature_styremote_400x250.jpg
+  feature: feature_styremote_1024x256.jpg
 ---
 Datoen for Årsmøte 2020 står fast:
 
