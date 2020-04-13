@@ -22,8 +22,8 @@ Gass og en veske som tiltrekker mygg må byttes jevnlig. Nede føres vedlikehold
 | Start dato | | 2020-05-01 |
 | | | |
 | **Vår** | | |
-| - Lading av batteriet | - | |
-| - Start av Felle | 16/05 | |
+| - Lading av batteriet | - | 03/04 |
+| - Start av Felle | 16/05 | 13/04 |
 | | | |
 | **Vedlikehold** | | |
 | - Bytting Propan, Mygg-nett, tiltrekkende veske | 31/05 | |
