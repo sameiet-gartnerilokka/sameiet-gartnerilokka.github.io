@@ -19,7 +19,7 @@ Gass og en veske som tiltrekker mygg må byttes jevnlig. Nede føres vedlikehold
 
 |   | Sesong 2019 | Sesong 2020 |
 |---|---|---|
-| Start dato | | 2020-05-01 |
+| Start dato | | 2020-04-13 |
 | | | |
 | **Vår** | | |
 | - Lading av batteriet | - | 03/04 |
