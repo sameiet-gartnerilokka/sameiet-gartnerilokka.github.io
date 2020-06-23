@@ -7,10 +7,6 @@ image:
 ---
 Skadedyr er ikke noe gøy. Så lenge har vi vært heldig i sameie og måtte bare tåler noen mygg og flyer siste resten av sommereren.
 
-Hvis det er behov, så har vi allerede noen maurgift klar til bruks i sameiet.
-
-Gir bare et beskjed til styre, så kan du fort få tak i gift og små bokser, nå maur skulle være et problem.
-
 ---
 
 Vi også har et myggfelle kjørende på en av fellesområdene nær vannet.
