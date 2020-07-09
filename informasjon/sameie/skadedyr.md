@@ -24,7 +24,7 @@ Gass og en veske som tiltrekker mygg må byttes jevnlig. Nede føres vedlikehold
 | **Vedlikehold** | | |
 | - Bytting Propan, Mygg-nett, tiltrekkende veske | 31/05 | 28/05 |
   - Bytting Propan, Mygg-nett, tiltrekkende veske | 14/05 | 11/06 |
-| - Bytting Propan, Mygg-nett, tiltrekkende veske | 27/06 | |
+| - Bytting Propan, Mygg-nett, tiltrekkende veske | 27/06 | 09/07 |
 | - Bytting Propan, Mygg-nett, tiltrekkende veske | 09/09 | |
 | | | |
 | **Vintervedlikehold** | | |
