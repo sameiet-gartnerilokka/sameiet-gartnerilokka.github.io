@@ -19,4 +19,4 @@ Fakturaadresse
     8608 Mo i Rana
     fatura@usbl.no
 
-Kontakt: [sameie at gartnerilokka.no](mailto:sameie@gartnerilokka.no)
+**Kontakt:** [sameie at gartnerilokka.no](mailto:sameie@gartnerilokka.no)
