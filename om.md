@@ -18,3 +18,5 @@ Fakturaadresse
     Fakturamottak Usbl, Postbokx, 4391 Vika
     8608 Mo i Rana
     fatura@usbl.no
+
+Kontakt: [sameie at gartnerilokka.no](mailto:sameie@gartnerilokka.no)
