@@ -11,4 +11,4 @@ gem "ffi", ">= 1.9.24"
 
 # Some specialities for checking links
 gem "rake"
-gem "html-proofer"
+#gem "html-proofer"
