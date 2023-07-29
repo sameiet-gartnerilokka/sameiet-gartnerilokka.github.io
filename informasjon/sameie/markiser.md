@@ -7,7 +7,7 @@ image:
   credit: Solestal GmbH
   creditlink: https://commons.wikimedia.org/wiki/File:Tuchverbindung_mittels_fixklip_an_einem_alten_einteiligen_Markisentuch.jpg
 ---
-Marker er kjekk å har, det synes vi også.
+Markiser er kjekk å har, det synes vi også.
 
 Vi har derfor et rammeavtale mellom Sameiet Garterniløkka og [Celcius](https://celcius.no/) ang. solskjermingsprodukter.
 

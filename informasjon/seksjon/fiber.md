@@ -7,10 +7,10 @@ image:
   creditlink: https://commons.wikimedia.org/wiki/File:Fiber_Optic_(Unsplash).jpg
   credit: Christopher Burns
 ---
-Internet og TV blir levert av [Fiber1](https://www.fiber1.no) i sameiet.
+Internet og TV blir levert av [VikenFiber](https://www.vikenfiber.no) i sameiet.
 
 Alle betaler minst tilgang til fiber med fellesavgiften.
 
-Tilgang til internet og tv bestemmer hver seksjon for seg selv. Betaling skjer direkte til Fiber1 for alle informasjon utover tilgangen til fiber.
+Tilgang til internet og tv bestemmer hver seksjon for seg selv. Betaling skjer direkte til Vikenfiber for alle seksjoner utover tilgangen til fiber.
 
-Hvis du har problemer med internett og/eller TV, ta direkte kontakt med [Fiber1](https://www.fiber1.no).
+Hvis du har problemer med internett og/eller TV, ta direkte kontakt med [VikenFiber](https://www.vikenfiber.no).

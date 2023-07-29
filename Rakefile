@@ -32,7 +32,7 @@ task :new_page => :create_new_page
 # Method to preview the site
 desc 'Preview the page locally'
 task :serve do
-  system('bundle exec jekyll serve --unpublished --future')
+  system('bundle exec jekyll serve --unpublished --future -H 0.0.0.0')
 end
 
 # Method to check the site for failing links
